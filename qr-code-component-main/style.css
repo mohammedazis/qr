@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color:hsl(220, 15%, 55%);
+}
+div{
+    background-color: hsl(0, 0%, 100%);
+    width: 200px; 
+    padding: 30px; 
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 250px;
+}
+p,h3{
+    background-color: aliceblue;
+}
+p{
+    font-size: 15px;
+}
